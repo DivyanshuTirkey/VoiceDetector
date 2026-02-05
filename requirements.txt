@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+slowapi
+pydantic
+pydub
+python-multipart
+requests
